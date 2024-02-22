@@ -40,9 +40,15 @@ Commits every 2 days to indicate project progress.
 - Establish a solid framework to ensure FactorFactory features correspond to those of Chen and Zimmerman's (unit test).
 
 ## How to run the code
-To run the Factor Factory script, use the following bash command:
+To run the Factor Factory script, use the following bash commands:
 
+On Linux (please send me an email if you see other bash dependencies on Linux), first
 ```bash
+sudo apt-get install libxml2 libxml2-dev libharfbuzz-dev libfribidi-dev libfreetype6-dev libpng-dev libtiff5-dev libjpeg-dev
+```
+Then for Windows or Linux:
+```bash
+git clone https://github.com/cdldl/FactorFactory.git
 R -f factor_factory_run.R
 ```
 
