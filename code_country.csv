@@ -1,0 +1,95 @@
+Code,Country,Code2
+S&P/ASX200 || AORD,Australia,S&P/ASX200
+ATX,Austria,ATX
+MERV,Argentina,MERV
+BAX,Bahrain,BAX
+DS30,Bangladesh,DS30
+BEL20,Belgium,BEL20
+BVSP,Brazil,BVSP
+BIRS1,Bosnia-Herzegovina,BIRS1
+DCIBT,Botswana,DCIBT
+SOFIX,Bulgaria,SOFIX
+GSPTSE,Canada,GSPTSE
+COLCAP,Columbia,COLCAP
+IACR,Costa Rica,IACR
+BRVM10CI,Cote D'lvoire,BRVM10CI
+SSEC,China,SSEC
+CRBEX,Crotia,CRBEX
+CYMAIN,Cyprus,CYMAIN
+JSEMI,Jamaica,JSEMI
+SPBLPGPT,Peru,SPBLPGPT
+IBC,Venezuela,IBC
+Chile,Chile,Chile
+PX,Czech Republic,PX
+OMXC20,Denmark,OMXC20
+EGX30 || EGX70,Egypt,EGX30
+OMXTGI,Estonia,OMXTGI
+FCHI,France,FCHI
+OMXH25,Finland,OMXH25
+DAX,Germany,DAX
+ATG,Greece,ATG
+HIS,Hong Kong,HIS
+BUX,Hungary,BUX
+OMXIPI,Iceland,OMXIPI
+ISX60,Iraq,ISX60
+IETP,Ireland,IETP
+invit40,Italy,invit40
+NIFTY500 || BSESN,India,NIFTY500
+JKSE,Indonesia,JKSE
+TA35 || TA125,Israel,TA35
+N225,Japan,N225
+AMGNRLX,Jordan,AMGNRLX
+KASE,Kazakhstan,KASE
+NSE20,Kenya,NSE20
+BKP,Kuwait,BKP
+KOSPI,S.Korea,KOSPI
+OMXRGI,Latvia,OMXRGI
+BLSI,Lebanon,BLSI
+OMXVGI,Lithuania,OMXVGI
+-,Luxembourg,-
+KLSE,Malaysia,KLSE
+-,Malawi,-
+MSE,Malta,MSE
+MDEX,Mauritius,MDEX
+MXX,Mexico,MXX
+MNETOP20,Mongolia,MNETOP20
+MNSE10,Montenegro,MNSE10
+MASI,Morocco,MASI
+FTN098,Namibia,FTN098
+NGSE30,Nigeria,NGSE30
+AEX || AMX,Netherlands,AEX
+NZ50,New Zealand,NZ50
+OSEAX || OBX,Norway,OSEAX
+MSX30,Oman,MSX30
+KSE,Pakistan,KSE
+PLE,Palestinian Territory,PLE
+PSI,Philippines,PSI
+WIG20,Poland,WIG20
+PSI20,Portugal,PSI20
+QSI,Qatar,QSI
+BETI || BETFI || BETXT || BETTR,Romania,BETI
+IMOEX,Russia,IMOEX
+ALSIRW,Rwanda,ALSIRW
+TASI,Saudi Arabia,TASI
+BELEX15,Serbia,BELEX15
+STI,Singapore,STI
+SAX,Slovakia,SAX
+SBITOP,Slovenia,SBITOP
+JTOPI,South Africa,JTOPI
+IBEX,Spain,IBEX
+CSE || SPLK20LP,Sri Lanka,CSE
+OMXS30,Sweden,OMXS30
+SSMI,Switzerland,SSMI
+TWII,Taiwan,TWII
+DSEI,Tanzania,DSEI
+SETI,Thailand,SETI
+XU100,Turkiye,XU100
+TUNINDEX,Tunusia,TUNINDEX
+ALSIUG,Uganda,ALSIUG
+PFTSI,Ukraine,PFTSI
+FTSE,UK,FTSE
+GSPC|| DJI || IXIC,USA,GSPC
+TASI,United Arab Emirates,TASI
+HNX30 || VNI || VNI30,Vietnam,HNX30
+LASILZ,Zambia,LASILZ
+TOPZI,Zimbabwe,TOPZI
