@@ -6,7 +6,7 @@ ref[,be:=book_equity]
 ref[,at:=assets]
 check = output[ticker == 'AAPL.US' &  date > '1990-01-01' & date < '2019-01-01'] #
 ref = ref[ symbol == 'AAPL' & date > '1990-01-01' & date < '2019-01-01']
-tmp_names = names(ref)[names(ref) %in% names(data) & sapply(ref,is.numeric)]
+tmp_names = names(ref)[names(ref) %in% names(check) & sapply(ref,is.numeric)]
 tmp_names = sort(tmp_names)
 ref = ref[,tmp_names,with=F]
 check = check[,tmp_names,with=F]
